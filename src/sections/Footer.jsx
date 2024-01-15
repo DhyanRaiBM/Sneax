@@ -4,7 +4,7 @@ import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
 const Footer = () => {
   return (
     <footer className="max-container">
-        <div className="flex gap-10 items-center justify-center ">
+        <div className="flex gap-10 items-center justify-center max-md:flex-col">
             <div className=" flex flex-col gap-3 w-[30%]">
                 <figure>
                 <img src={footerLogo} alt="Logo" />
