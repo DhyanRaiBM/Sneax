@@ -48,7 +48,7 @@ const Nav = () => {
         {
             isOpen && 
             (
-                <div className="flex absolute top-20 right-0  mr-6 rounded">
+                <div className="flex z-50 absolute top-20 right-0  mr-6flex nded">
                         <ul className="flex flex-col gap-3 bg-[#f5f5f5] py-4 px-4 rounded-md scale-up-ver-top">
                         {navLinks.map((item) => (
                             <li key={item.label}>
