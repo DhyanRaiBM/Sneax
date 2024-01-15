@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="max-container">
         <div className="flex gap-10 items-center justify-center max-md:flex-col">
-            <div className=" flex flex-col gap-3 w-[30%]">
+            <div className=" flex flex-col gap-3 w-[30%] max-md:w-[90%]">
                 <figure>
                 <img src={footerLogo} alt="Logo" />
                 </figure>
