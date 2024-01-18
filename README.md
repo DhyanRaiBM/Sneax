@@ -13,4 +13,6 @@ Welcome to SneaX, A platform for exploring a diverse range of stylish and comfor
 - **React**
 - **Tailwind CSS**
 
+**Note:** The site may take some time to load, so please wait up to 1 minute.
+
 **Note:** SneaX is deployed on Netlify. Explore the live demo of SneaX [here](https://sneax-dhyan.netlify.app/).
